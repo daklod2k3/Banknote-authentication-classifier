@@ -66,19 +66,19 @@ Each algorithm gives different results with different accuracy values as shown b
 
 #### Logistic Regression
 
-[](images/end_to_end_project/log_F1_score_and_recall.png)
+![](images/end_to_end_project/log_F1_score_and_recall.png)
 
 #### KNN Algorithm
 
-[](images/end_to_end_project/knn_f1_score_and_recall.png)
+![](images/end_to_end_project/knn_f1_score_and_recall.png)
 
 #### Naive Bayes Algorithm
 
-[](images/end_to_end_project/NaiveBayes_f1_score_and_recall.png)
+![](images/end_to_end_project/NaiveBayes_f1_score_and_recall.png)
 
 #### Support Vector Machine Algorithm
 
-[](images/end_to_end_project/SVM_f1_score_and_recall.png)
+![](images/end_to_end_project/SVM_f1_score_and_recall.png)
 
 ### Stochastic Gradient Descent Algorithm
 
@@ -88,11 +88,11 @@ Each algorithm gives different results with different accuracy values as shown b
 
 #### Algorithms F1 Score
 
-[](images/end_to_end_project/algorithms_f1_score.png)
+![](images/end_to_end_project/algorithms_f1_score.png)
 
 #### Algorithms Recall Score
 
-[](images/end_to_end_project/algorithms_recall_score.png)
+![](images/end_to_end_project/algorithms_recall_score.png)
 
 The best Algorithms for this project are Support Vector Machines and K-Nearest Neighbors and Stochastic Gradient Descent
 
