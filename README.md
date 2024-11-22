@@ -46,11 +46,11 @@ There are 24 duplicated values.
 
 From the dataset, there are 762 genuine notes and 610 fake notes as shown below:
 
-![Screenshot 2022-12-31 113030](https://user-images.githubusercontent.com/78556152/210130545-39e65cf6-caa0-4cab-881c-c4901bd6a24e.png)
+![](https://user-images.githubusercontent.com/78556152/210130545-39e65cf6-caa0-4cab-881c-c4901bd6a24e.png)
 
 ## Data Visualization
 
-![Screenshot 2022-12-31 113901](https://user-images.githubusercontent.com/78556152/210130723-efbdf2d1-c6c4-456c-be50-fb19a892c293.png)
+![](images/end_to_end_project/banknote_data_visualization.png)
 
 From the above histograms, Kurtosis is positively skewed while Entropy is negatively skewed. Variance is multimodal, target is bimodal while skewness is random.
 
@@ -66,45 +66,35 @@ Each algorithm gives different results with different accuracy values as shown b
 
 #### Logistic Regression
 
-![Screenshot 2022-12-31 115031](https://user-images.githubusercontent.com/78556152/210130975-647dde8a-9e59-4ee7-b36c-c9a2959bfe49.png)
-
-![Screenshot 2022-12-31 115226](https://user-images.githubusercontent.com/78556152/210131009-a6a4d304-5ebf-41a4-8f22-babb555f1ace.png)
+[](images/end_to_end_project/log_F1_score_and_recall.png)
 
 #### KNN Algorithm
 
-![Screenshot 2022-12-31 115624](https://user-images.githubusercontent.com/78556152/210131109-852ec52b-95f3-478f-b0b4-0db8a1d919f9.png)
-
-![Screenshot 2022-12-31 115718](https://user-images.githubusercontent.com/78556152/210131134-d1900a07-92d6-42c5-845b-0626b6036b6c.png)
+[](images/end_to_end_project/knn_f1_score_and_recall.png)
 
 #### Naive Bayes Algorithm
 
-![Screenshot 2022-12-31 120032](https://user-images.githubusercontent.com/78556152/210131197-ac55ecff-26fd-4478-b3e1-20ab4f2d60ea.png)
-
-![Screenshot 2022-12-31 120139](https://user-images.githubusercontent.com/78556152/210131220-7b002a08-4086-47b4-97a3-5a906c075b8d.png)
+[](images/end_to_end_project/NaiveBayes_f1_score_and_recall.png)
 
 #### Support Vector Machine Algorithm
 
-![Screenshot 2022-12-31 120421](https://user-images.githubusercontent.com/78556152/210131277-a292e337-82aa-4c44-a808-0a893b0f5181.png)
-
-![Screenshot 2022-12-31 120509](https://user-images.githubusercontent.com/78556152/210131300-3ccc38bb-9a87-400f-9b26-4b514a1f08cd.png)
+[](images/end_to_end_project/SVM_f1_score_and_recall.png)
 
 ### Stochastic Gradient Descent Algorithm
 
-![Screenshot 2022-12-31 120421](https://user-images.githubusercontent.com/78556152/210131277-a292e337-82aa-4c44-a808-0a893b0f5181.png)
-
-![Screenshot 2022-12-31 120509](https://user-images.githubusercontent.com/78556152/210131300-3ccc38bb-9a87-400f-9b26-4b514a1f08cd.png)
+![](images/end_to_end_project/SGD_f1_score_and_recall.png)
 
 ## Comparing Between the Algorithms using F1 score and Recall
 
 #### Algorithms F1 Score
 
-![Screenshot 2022-12-31 121531](https://user-images.githubusercontent.com/78556152/210131557-cd95b7d3-6ba6-4d86-9be3-d35f93d532da.png)
+[](images/end_to_end_project/algorithms_f1_score.png)
 
 #### Algorithms Recall Score
 
-![Screenshot 2022-12-31 121741](https://user-images.githubusercontent.com/78556152/210131590-f928fdd0-46f5-4727-aea3-94064b31456f.png)
+[](images/end_to_end_project/algorithms_recall_score.png)
 
-The best Algorithms for this project are Support Vector Machines and K-Nearest Neighbors
+The best Algorithms for this project are Support Vector Machines and K-Nearest Neighbors and Stochastic Gradient Descent
 
 ## Conclusion
 
